@@ -1,6 +1,6 @@
 #  Problema de los Filósofos Comelones - Solución en C
 
-Una implementación robusta y educativa del clásico problema de concurrencia **"Dining Philosophers"**, escrita en C con pthreads y semáforos.
+Una implementación robusta y educativa del clásico problema de concurrencia **"Filosofos comelones"**, escrita en C con pthreads y semáforos.
 
 ##  Objetivo
 
