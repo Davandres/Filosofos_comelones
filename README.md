@@ -21,5 +21,5 @@ Resolver el problema garantizando:
 ## ▶️ Compilación y ejecución
 
 ```bash
-gcc -pthread dining_philosophers_limited.c -o dining
-./dining
+gcc -pthread filosofos_comelones.c -o filosofos_comelones
+./filosofos_comelones
